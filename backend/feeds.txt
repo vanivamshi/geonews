@@ -1,0 +1,6 @@
+# One RSS/Atom feed per line. Add your city's outlets here: local papers, TV stations,
+# city/county press-release feeds, transit agency alerts. Local feeds are what make GeoNews useful.
+https://feeds.npr.org/1001/rss.xml
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+https://feeds.arstechnica.com/arstechnica/index

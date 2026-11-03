@@ -1,0 +1,31 @@
+{
+  "_note": "Synthetic eval corpus about a fictional town. Not real news. Loaded by `geonews-eval seed`.",
+  "geocode": [
+    {"query": "maple falls", "lat": 44.1, "lon": -122.9, "display_name": "Maple Falls (fictional eval town)"},
+    {"query": "cedar county", "lat": 44.2, "lon": -122.8, "display_name": "Cedar County (fictional eval county)"},
+    {"query": "riverton", "lat": 44.6, "lon": -123.4, "display_name": "Riverton (fictional eval town)"}
+  ],
+  "articles": [
+    {"key": "council_vote", "story": "rezoning", "hours_ago": 20, "source": "Maple Falls Ledger", "lat": 44.1, "lon": -122.9,
+     "title": "Maple Falls council approves Elm Street rezoning 5-2",
+     "body": "The Maple Falls City Council voted 5-2 on Tuesday night to rezone six blocks along Elm Street from single-family to mixed use. The change allows buildings up to four stories with ground-floor retail. Councilmember Ana Ruiz, who voted yes, said the town needs more housing near downtown. Councilmember Tom Becker, who voted no, said residents were not given enough notice. The ordinance takes effect in 30 days. A second public hearing on parking rules is scheduled for December 2."},
+    {"key": "council_preview", "story": "rezoning", "hours_ago": 50, "source": "Cedar County Courier", "lat": 44.1, "lon": -122.9,
+     "title": "Elm Street rezoning heads to council vote",
+     "body": "The Maple Falls City Council will vote Tuesday on a proposal to rezone six blocks of Elm Street to allow mixed-use buildings. The planning commission recommended approval 4-1. About 40 residents spoke at the commission hearing, with roughly half opposed over traffic concerns."},
+    {"key": "bridge_closure", "story": "bridge", "hours_ago": 6, "source": "Maple Falls Ledger", "lat": 44.12, "lon": -122.91,
+     "title": "Oak River Bridge to close nightly for repairs starting Monday",
+     "body": "The Oak River Bridge on Route 9 will close to all traffic from 9 p.m. to 5 a.m. nightly starting Monday, November 10, for deck repairs, the county transportation department said. The work is expected to last three weeks. Drivers should detour via the Pine Street crossing, which adds about 10 minutes. Daytime traffic will not be affected. Bus route 4 will use the detour during closure hours."},
+    {"key": "school_budget", "story": "schools", "hours_ago": 30, "source": "Cedar County Courier", "lat": 44.2, "lon": -122.8,
+     "title": "Cedar County schools face $3.2 million shortfall",
+     "body": "The Cedar County School District projects a $3.2 million budget shortfall for next school year, Superintendent Lena Park told the school board on Wednesday. Park said the gap is driven by declining enrollment and the end of federal pandemic funds. Options under consideration include delaying a planned middle school renovation and not filling 18 vacant positions. The board will hold a budget workshop on November 20. No school closures have been proposed."},
+    {"key": "wildfire_1", "story": "fire", "hours_ago": 4, "source": "Riverton Daily", "lat": 44.6, "lon": -123.4,
+     "title": "Brush fire near Riverton grows to 300 acres",
+     "body": "A brush fire east of Riverton has burned about 300 acres and is 10 percent contained as of Thursday afternoon, according to the state forestry department. Officials issued a Level 2 'be ready' evacuation notice for homes along Ridge Road. No structures have been damaged. The cause is under investigation. An evacuation shelter is open at Riverton High School."},
+    {"key": "wildfire_0", "story": "fire", "hours_ago": 9, "source": "KRVT News", "lat": 44.6, "lon": -123.4,
+     "title": "Crews respond to brush fire east of Riverton",
+     "body": "Firefighters are responding to a brush fire east of Riverton that started Thursday morning. Early reports put the fire at around 50 acres. Ridge Road is closed between Mile 3 and Mile 7. Residents are asked to avoid the area."},
+    {"key": "library", "story": "library", "hours_ago": 40, "source": "Maple Falls Ledger", "lat": 44.1, "lon": -122.9,
+     "title": "Maple Falls library extends weekend hours",
+     "body": "The Maple Falls Public Library will open Sundays from noon to 5 p.m. starting in January, the library board announced. The extended hours are funded by a $90,000 grant from the state library association. Saturday hours remain 10 a.m. to 6 p.m."}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "classify": {"topic_acc": 0.75, "locality_acc": 0.75, "newsworthiness_ok": 0.75},
+  "qa": {
+    "citation_validity": 0.95,
+    "must_cite_recall": 0.8,
+    "faithfulness": 4.0,
+    "fact_recall": 0.7,
+    "usefulness": 3.5,
+    "abstain_correct": 1.0,
+    "latency_p95_s": 90,
+    "cost_usd": 0.25
+  }
+}
